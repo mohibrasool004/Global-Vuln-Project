@@ -1,0 +1,22 @@
+# config/config.yaml
+
+# API endpoints or URLs for vulnerability data
+urls:
+  cnnvd: "http://www.cnnvd.org.cn/web/xxk/ldxq_list"
+  jvn: "https://jvn.jp/en/vuln/"
+  us_nvd: "https://services.nvd.nist.gov/rest/json/cves/1.0/"
+
+# Data collection settings
+collection:
+  timeout: 10  # seconds
+  user_agent: "GlobalVulnBot/1.0"
+
+# Analysis settings
+analysis:
+  pca_components: 3
+  arima_order: [1, 1, 1]
+
+# Logging settings
+logging:
+  level: "INFO"
+  file: "logs/project.log"

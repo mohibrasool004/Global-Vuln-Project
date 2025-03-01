@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+statsmodels
+pyyaml
+fuzzywuzzy
+python-Levenshtein
+matplotlib
+seaborn
+pytest

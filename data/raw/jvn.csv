@@ -1,0 +1,6 @@
+cve_id,description,severity,published_date,source
+CVE-2025-1001,Privilege escalation in AAA Linux Kernel via stack buffer overflow,Critical,2025-01-12,US_NVD
+CVE-2025-1002,Cryptographic weakness in BBB VPN allows session hijacking,High,2025-02-08,US_NVD
+CVE-2025-1003,Information disclosure in CCC email service exposes user credentials,Medium,2025-01-25,US_NVD
+CVE-2025-1004,Security misconfiguration in DDD cloud storage leads to unauthorized access,High,2025-02-28,US_NVD
+CVE-2025-1005,Improper validation in EEE mobile payment app results in financial fraud,Critical,2025-03-10,US_NVD

@@ -1,0 +1,6 @@
+cve_id,description,severity,published_date,source
+CVE-2025-0001,Buffer overflow in XYZ software allows remote code execution,Critical,2025-01-05,CNNVD
+CVE-2025-0002,SQL Injection in ABC web app exposes sensitive database data,High,2025-02-10,CNNVD
+CVE-2025-0003,Memory corruption bug in DEF library causes application crashes,Medium,2025-01-20,CNNVD
+CVE-2025-0004,Improper authentication in GHI cloud service leads to privilege escalation,High,2025-02-18,CNNVD
+CVE-2025-0005,Cross-site scripting (XSS) in JKL CMS allows phishing attacks,Low,2025-03-01,CNNVD
